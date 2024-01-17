@@ -28,7 +28,6 @@
     text-decoration: none;
     color: #19BF9D;
 }
-
 .fa-brands{
     height: 38px;
     width: 38px;
@@ -36,4 +35,10 @@
     border-radius: 50%;
     padding: 10px;
 
+}
+.bg-dark{
+    background-color: #2C3E50;
+}
+.my-font3{
+    font-size: 0.6em;
 }
