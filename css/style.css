@@ -8,10 +8,32 @@
     font-size: 20px;
     text-transform: uppercase;
 }
-.lightgreen{
+.bg-lightgreen{
     background-color: #1ABC9C;
 }
 .bar{
     height: 4px;
     width: 20px;
+}
+.bg-white{
+    background-color: white
+}
+.black{
+    color: black;
+}
+.bg-lightdark{
+    background-color: #3A546D;
+}
+.link {
+    text-decoration: none;
+    color: #19BF9D;
+}
+
+.fa-brands{
+    height: 38px;
+    width: 38px;
+    border: 1px solid white;
+    border-radius: 50%;
+    padding: 10px;
+
 }
