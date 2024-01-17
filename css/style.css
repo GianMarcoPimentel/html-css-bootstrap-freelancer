@@ -1,0 +1,17 @@
+.white{
+    color: white;
+}
+.my-font{
+  font-size: 30px;
+}
+.my-font2{
+    font-size: 20px;
+    text-transform: uppercase;
+}
+.lightgreen{
+    background-color: #1ABC9C;
+}
+.bar{
+    height: 4px;
+    width: 20px;
+}
